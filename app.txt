@@ -2,3 +2,4 @@ hello git Devops
 welcome to devops
 git is important for devops
 login feature
+monitiring enabled
