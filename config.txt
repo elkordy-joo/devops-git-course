@@ -1,1 +1,1 @@
-enviroment=development
+enviroment=testing
